@@ -1,0 +1,27 @@
+.brand {
+    font-weight: bold;
+    display: flex;
+}
+
+.NavBar {
+    box-shadow: 10px 10px 15px 0 rgba(0,0,0,.2);
+    margin-bottom: 15px;
+}
+
+.brand img {
+    width: 32px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.NavsLink {
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+}
+
+.Links {
+    margin-right: 5px;
+}
+
+
